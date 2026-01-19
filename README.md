@@ -8,11 +8,11 @@ Cleans messy sales data:
 4. Exports clean Excel file
 
 ## Files
-- `messy_sales.csv` - Original messy data
-- `cleaner.py` - Python cleaning script  
-- `cleaned.xlsx` - Clean result (open in Excel)
+- messy_sales.csv - Original messy data
+- cleaner.py - Python cleaning script  
+- cleaned.xlsx - Clean result (open in Excel)
 
 ## How to Run
-```bash
+
 pip install pandas openpyxl
 python cleaner.py
