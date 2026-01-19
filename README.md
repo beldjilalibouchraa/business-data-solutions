@@ -14,5 +14,5 @@ Cleans messy sales data:
 
 ## How to Run
 
-pip install pandas openpyxl
-python cleaner.py
+-pip install pandas openpyxl
+-python cleaner.py
